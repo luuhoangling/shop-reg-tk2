@@ -1,13 +1,6 @@
 # Shop Reg Game TruyKich2 
 
-# Tecnology 
-
-## Express
-## React
-## MongoDB Atlat
-
 ## Features
-
 
 
 ## Prerequisites
